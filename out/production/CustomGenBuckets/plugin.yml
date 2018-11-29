@@ -1,0 +1,8 @@
+name: CustomGenBuckets
+version: 1.0
+main: me.awperdev.customgenbuckets.CustomGenbuckets
+description: A plugin.
+depend: [Vault, Factions]
+commands:
+ gengive:
+   usage: /<command>
